@@ -19,7 +19,7 @@ Compare and contrast monolithic and microservices architectures by analyzing an 
      ```
    - **Clone the Microservices Repository:**
      ```bash
-     git clone https://github.com/dotnet-architecture/eShopOnContainers.git
+     git clone https://github.com/dotnet/eShop.git
      ```
    - **Explore the Repository Structures:**
      - Familiarize yourself with the directories and files in both repositories.
